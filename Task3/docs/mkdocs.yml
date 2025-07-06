@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Aрхитектурa MVP онлайн-сервиса открытия депозитов
 plugins:
   - plantuml:
       puml_url: https://www.plantuml.com/plantuml/
