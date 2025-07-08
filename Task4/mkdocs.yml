@@ -1,0 +1,4 @@
+site_name: MVP для колл-центра
+plugins:
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
